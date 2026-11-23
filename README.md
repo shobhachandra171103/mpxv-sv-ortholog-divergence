@@ -25,13 +25,11 @@ This repository documents the workflow, scripts, and outputs for detecting **str
 
 ## Visual Summary (`results/`)
 
-![Genomic Distribution of Structural Variant Hotspots (MPXV)](results/MPXV_SV_Distribution.png)
+![Prevalence of Structural Hotspot Cluster 4 across Mpox Clades](results/MPXV_SV_Distribution.png)
 
-![Prevalence of Structural Hotspot Cluster 4 across Mpox Clades](results/phylogeny/SV_Clade_Distribution.png)
+MPXV Circular Structural Variant & Tandem Repeat Map: [`results/MPXV_Pangenome_Final.pdf`](results/MPXV_Pangenome_Final.pdf)
 
-![MPXV Circular Structural Variant & Tandem Repeat Map](results/MPXV_Pangenome_Final.pdf)
-
-* Additional R hotspot output: [`results/sv_hotspot.pdf`](results/sv_hotspot.pdf)
+Additional R hotspot output: [`results/sv_hotspot.pdf`](results/sv_hotspot.pdf)
 
 ## Repository Structure
 
