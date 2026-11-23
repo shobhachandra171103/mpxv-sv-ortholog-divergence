@@ -50,6 +50,4 @@ mpxv-structural-variants-orthologs/
 └── results/
     ├── MPXV_SV_Distribution.png
     ├── MPXV_Circos_Final_v2.png
-    ├── Rplot_sv_hotspot.pdf
-    └── phylogeny/
-        └── SV_Clade_Distribution.png
+    └── Rplot_sv_hotspot.pdf
